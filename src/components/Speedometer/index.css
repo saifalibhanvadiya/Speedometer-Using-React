@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.Container {
+  background-color: #07080c;
+  color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+.heading {
+  text-transform: uppercase;
+}
+.img {
+  width: 40%;
+}
+.subtitle {
+  font-size: 23px;
+}
+.peregraph {
+  font-size: 15px;
+}
+.btn {
+  height: 33px;
+  width: 100px;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  cursor: pointer;
+}
+.btn-blue {
+  background-color: #0b69ff;
+}
+.btn-trasperant {
+  background-color: transparent;
+  border: 1px solid #fff;
+}
